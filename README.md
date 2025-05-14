@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Erick!
+
+I'm a first-year Electronic and Electrical Engineering student at University College London (UCL). Before university, my background was mostly focused on maths and programming, both in software development and competitive algorithmic competitions.
+
+Currently, my main interests are electronics (embedded systems, analog circuit design) and software development, as well as more theoretical subjects such as computer science theory and quantum computing.
 
 <!--
 **erickcpassos/erickcpassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
