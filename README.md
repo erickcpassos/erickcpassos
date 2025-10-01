@@ -2,7 +2,9 @@
 
 I'm a second-year **Electronic and Electrical Engineering** student at University College London (UCL). Before university, my background was mostly focused on maths and programming, both in **software development** and **competitive algorithmic competitions**.
 
-Currently, my main interests are **electronics** (embedded systems, analog circuit design) and **software development**, as well as more theoretical subjects such as **computer science** theory and **quantum computing**.
+Currently, my main interests are **electronics** (embedded systems, analog circuit design, control systems) and **software development**, as well as more theoretical subjects such as **computer science** theory and **quantum computing**.
+
+You can access my (not fully complete) website here: [erickcpassos.github.io/website](https://erickcpassos.github.io/website/)
 
 <!--
 **erickcpassos/erickcpassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
